@@ -1,4 +1,4 @@
-const API_KEY = '90a8c52ec80ddc1515b605a63fc70a79';
+const API_KEY = import.meta.env.VITE_API_KEY;
 const searchBtn = document.getElementById('search-btn');
 const cityInput = document.getElementById('city-input');
 const weatherCard = document.querySelector('.weather-card');
