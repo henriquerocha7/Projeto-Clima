@@ -6,20 +6,20 @@ Este é um projeto simples de previsão do tempo feito com **HTML**, **CSS** e *
 
 - Pesquisa por cidade
 - Exibe temperatura, descrição do tempo, umidade e vento
-- Integração com API de clima (como OpenWeatherMap)
+- Integração com API de clima (OpenWeatherMap)
 
 ## 🚀 Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
-- API pública de clima (ex: OpenWeatherMap)
+- API pública de clima (OpenWeatherMap)
 
 ## 🔧 Como usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/projeto-clima.git
+   git clone https://github.com/henriquerocha7/Projeto-Clima.git
    
 ## 🔐 Variável de Ambiente
 
